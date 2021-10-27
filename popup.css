@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(44, 44, 44);
+    color: white;
+}
+
+#root {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
